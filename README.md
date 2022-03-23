@@ -1,5 +1,5 @@
-# HANGMAN GAME
+# react-todo-list
 
-# click to see ( https://musaekmekcioglu.github.io/hangman_javascript/)
+# click to see ( https://react-todolist-app-exercise.netlify.app/)
 
 
